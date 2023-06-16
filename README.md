@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Minh
 
+-  ✨ I'm learning: Python, JavaScript, C++...
+-  ⌨️ I'm a free programmer 
 -  Personal website and blog: https://mwarevn.github.io/
 
 ## 🔧 Technologies & Tools
