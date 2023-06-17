@@ -2,7 +2,7 @@
 
 -  ✨ I'm learning: Python, JavaScript, C++...
 -  ⌨️ I'm a fullstack developer 
--  📑 Personal website and blog: https://mwarevn.github.io/
+-  📑 Personal website and blog: https://mwarevn.github.io/mwarevn
 
 ## 🔧 Technologies & Tools
 
