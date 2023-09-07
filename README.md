@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Minh
 
 -  ✨ I'm learning: Python, JavaScript, C++...
--  ⌨️ I'm a fullstack developer 
+-  ⌨️ I'm a backend developer 
 -  📑 Personal website and blog: https://mwarevn.github.io/mwarevn
 
 ## 🔧 Technologies & Tools
