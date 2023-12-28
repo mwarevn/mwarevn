@@ -2,7 +2,7 @@
 
 -  ✨ I'm learning: Python, JavaScript, C++...
 -  ⌨️ I'm a backend developer 
--  📑 Personal website and blog: https://mwarevn.github.io/mwarevn
+-  📑 Personal website and blog: Updating...
 
 ## 🔧 Technologies & Tools
 
