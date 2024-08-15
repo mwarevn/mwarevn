@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Minh
 
--  ✨ I'm learning: Python, JavaScript, C++...
--  ⌨️ I'm a backend developer 
+-  ✨ I'm learning: TypeScript, NestJS...
+-  ⌨️ I'm a Backend Developer
 -  📑 Personal website and blog: updating...
 
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=826af8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=826af8)
