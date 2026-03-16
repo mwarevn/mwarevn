@@ -2,7 +2,7 @@
 
 -  ✨ I'm learning: TypeScript, NestJS...
 -  ⌨️ I'm a Backend Developer
--  📑 Personal website and blog: updating...
+-  📑 Personal website: ![Portfolio](https://mwarevn.github.io/)
 
 ### 🔧 Technologies & Tools
 
