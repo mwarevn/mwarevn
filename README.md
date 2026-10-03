@@ -1,7 +1,6 @@
-# 👋 Hi, I’m Minh
+# 👋 Hi, I’m Skibisu
 
--  ✨ I'm learning: TypeScript, NestJS...
--  ⌨️ I'm a Backend Developer
+-  ⌨️ I'm a Senior Backend Developer
 -  📑 Personal website: mwarevn.github.io
 
 ### 🔧 Technologies & Tools
